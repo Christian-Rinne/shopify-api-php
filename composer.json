@@ -1,5 +1,5 @@
 {
-    "name": "shopify/shopify-api",
+    "name": "incapption/shopify-api",
     "description": "Shopify API Library for PHP",
     "license": "MIT",
     "type": "library",
